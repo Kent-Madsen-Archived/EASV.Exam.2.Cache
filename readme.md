@@ -1,6 +1,11 @@
 # Kanban Cache
+## Introduction
 * [To read documentation](docs/readme.md)
-* []()
+
+### Status
+[![CodeScene System Mastery](https://codescene.io/projects/26526/status-badges/system-mastery)](https://codescene.io/projects/26526)
+[![CodeScene Code Health](https://codescene.io/projects/26526/status-badges/code-health)](https://codescene.io/projects/26526)
+
 
 ## Assignment
 1. [Backend](https://github.com/KentVejrupMadsen/Kanban-Project-Backend)

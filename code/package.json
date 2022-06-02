@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KentVejrupMadsen/Kanban-Project-Cache/issues"
   },
-  "homepage": "https://github.com/KentVejrupMadsen/Kanban-Project-Cache#readme"
+  "homepage": "https://github.com/KentVejrupMadsen/Kanban-Project-Cache#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
